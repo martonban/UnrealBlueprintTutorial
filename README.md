@@ -1,4 +1,4 @@
-# Unreal Blueprit Tutorial
+# Unreal Blueprint Tutorial
 This is a tutorial projects based on [SmartPoly's](https://www.youtube.com/@SmartPoly) blueprint tutorials. This project is created in Unreal Engine 5.5.1.
 
 # Basics
