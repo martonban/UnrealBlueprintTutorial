@@ -1,4 +1,7 @@
 # Unreal Blueprint Tutorial
+⚠️ WARNING! This repository is not yet finished. The descriptions and code found here are not complete. <br><br>
+
+
 This is a tutorial projects based on [SmartPoly's](https://www.youtube.com/@SmartPoly) blueprint tutorials. <br><br>
 *Created in Unreal Engine 5.5.1*
 
