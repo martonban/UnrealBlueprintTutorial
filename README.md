@@ -1,14 +1,14 @@
 # Unreal Blueprint Tutorial
-This is a tutorial projects based on [SmartPoly's](https://www.youtube.com/@SmartPoly) blueprint tutorials. This project is created in Unreal Engine 5.5.1.
+This is a tutorial projects based on [SmartPoly's](https://www.youtube.com/@SmartPoly) blueprint tutorials. <br><br>
+*Created in Unreal Engine 5.5.1*
 
 # Basics
-In this project a leaned the basics of Unreal Engine 5 and the Blueprint Visual Scripting tool. In the following segement I will showcase what kind of blueprints I did and lerned during the making of it.
+In this project, I learned the basics of Unreal Engine 5 and the Blueprint Visual Scripting tool. In the following segment, I will showcase the blueprints I created.
+
 ## Door
-![Door](https://github.com/user-attachments/assets/4594c93c-63f8-4005-93f5-7e49d1ec1f89)
+![DoorV2-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/2bcba5de-2364-413e-b757-98f1979b1e8b)
+
+## Equipe a hat
+![Rgzts2025-02-03164633-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34a4225b-61d0-4a46-a8dc-cdcf41adb6f7)
 
 
-
-
-# Intermediate
-
-# Advanced
