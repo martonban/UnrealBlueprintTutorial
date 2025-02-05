@@ -15,3 +15,7 @@ In this project, I learned the basics of Unreal Engine 5 and the Blueprint Visua
 ![Rgzts2025-02-03164633-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34a4225b-61d0-4a46-a8dc-cdcf41adb6f7)
 
 
+# Resources I used:
+- [Beginner Tutorial](https://youtu.be/Xw9QEMFInYU?si=KKC58vU8sJdiMbGL)
+- [The Blender to Unreal Engine Workflow](https://www.youtube.com/watch?v=N8y_eH7QB2o)
+
